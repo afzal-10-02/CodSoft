@@ -55,7 +55,7 @@ Click the `Completed` button to view all tasks marked as completed.
 
 Click the `Tasks` button to view all tasks that are not completed.
 
-<amrk>Reset All Tasks:</mark>
+<mark>Reset All Tasks:</mark>
 
 Click the `Reset` button to clear all tasks from the list. You will be prompted with a confirmation dialog.
 
