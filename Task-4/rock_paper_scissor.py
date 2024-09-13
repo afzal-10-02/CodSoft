@@ -35,6 +35,7 @@ def main():
     paper = pygame.image.load("Images/img1.png")
     scissor = pygame.image.load("Images/img3.png")
 
+
     #Resized images.
     rock_r = pygame.transform.scale(rock, (130,130))
     paper_r = pygame.transform.scale(paper, (130,130))
