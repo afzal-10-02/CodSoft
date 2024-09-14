@@ -3,7 +3,6 @@ import pygame
 import sys
 import random 
 
-
 def main():
     pygame.init()
 
@@ -103,8 +102,6 @@ def main():
 
         pygame.display.update()
         clock.tick(60)
-
-
 def update_score(Winner, user_choice, computer_choice):
     #Variable to Score the Score.
     global Computer_score
